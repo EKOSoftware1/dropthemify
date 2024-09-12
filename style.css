@@ -208,6 +208,7 @@ nav a {
   display: block;
   margin: 0 auto;
   margin-top: -100px;
+  border-radius: 20px;
 }
 
 .theme-1 h2 {
